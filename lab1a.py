@@ -7,5 +7,4 @@
 # it is used to tell the system which interpreter to 
 # use(python2, python3, bash, etc). 
 
-print('Hello world')!/usr/bin/env python3
-
+print('Hello world')
