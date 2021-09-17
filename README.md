@@ -1,3 +1,1 @@
-# saeed.zamany
-Name Saeed Zamany
-OPS435 Lab#1
+#!/usr/bin/env python3
